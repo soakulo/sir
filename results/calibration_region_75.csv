@@ -1,0 +1,2 @@
+﻿RegionID;RegionName;n_observations;success;loss;message
+75;Республика Тыва;7;True;0.009307981612981507;CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL
